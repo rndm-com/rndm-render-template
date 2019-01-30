@@ -1,0 +1,16 @@
+{
+  "name": "@rndm/render-template",
+  "version": "0.1.0",
+  "description": "RNDM Render Plugin Template",
+  "author": "RNDM",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "homepage": "https://github.com/rndm-com/rndm-render-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rndm-com/rndm-render-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rndm-com/rndm-render-template/issues"
+  }
+}
